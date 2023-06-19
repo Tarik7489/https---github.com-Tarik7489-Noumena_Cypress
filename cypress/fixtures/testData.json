@@ -1,0 +1,79 @@
+{
+    "reUsedEmailLogin": "tarika+16@noumena.global",
+
+    "validFirstName": "Test",
+    "validLastName": "User",
+    "firstOtp": "1",
+    "secondOtp": "2",
+    "thirdOtp": "3",
+    "fourthOtp": "4",
+    "aditionalInfo": "Please accept my application",
+    "additionalLink": "www.google.com",
+    "firstName": "Test",
+    "lastName": "User",
+
+    "validEmail": "tarika+45hkiv6487@noumena.global",
+
+    "pendingEmail": "tarika+q4ts6y@noumena.global",
+    "shortName": "t",
+    "longName": "tarikazizfhsdfhdsfjdsgfjdsfdsgdfds",
+    "alphaNumeric": "tarik1234",
+    "invalidNumber": "432534",
+    "existingEmail": "tarika+16@noumena.global",
+    "existingPhoneNumber": "8904517451",
+
+    "newEmail": "tarik432041th@gmail.com",
+    "country": "India",
+    "minReferralCode": "2",
+    "longReferralCode": "123456",
+
+    "autoRejected": "tarik43208uj+125@gmail.com",
+
+    "chinaCountry": "China",
+
+    "assertionEmail": "tarik432+dfy6hks@gmail.com",
+    
+    "redirectEmail": "test+13@gmail.com",
+    "largeText": "With the online text generator you can process your personal Lorem Ipsum enriching it with html elements that define its structure, with the possibility to insert external links, but not only.",
+    "communityPost": "My new Post",
+    "link": "https://www.google.com",
+    "taggedUser":"@tarik",
+    "comment":"Hello",
+    "reply":"reply",
+    "edit":"www.bing.in",
+
+    "emptyText" :"Test",
+    "longText":"dsafafsdfdsfsdfsdfsdfsdfsdfdsfsdfdsfsdfdsfsdfsdfsdfsdfdsfdsfsdfsdfdsfsdfsdfsdfs",
+
+    "search":"hello",
+    "wrongSearch":"zzzzzzzz",
+    "member":"tarika+18@noumena.global",
+    "event":"Public",
+    "searchPost":"Mai here you go",
+    "searchNoum":"secret 6a",
+    "ownProfile":"tarika+16@noumena.global",
+
+    "searchInvitee":"tarika+18@noumena.global",
+    "eventName":"Test Event",
+    "eventDesc":"New Event",
+    "editEvent":"Updated Event",
+
+
+
+    "editPhoneNumber":"9878667",
+
+
+    "shortFirstName":"r",
+    "longFirstName": "fdgdfgdfgdfgdfgdfgdfg",
+    "alphaNumericFirstName":"wre32",
+    "specialCharFirstName":"@a",
+    "userName":"w",
+    "profTitle":"csdfdsfsdfsdfsdfsdfdsfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdss",
+    "updatedBio":"New Bio",
+    "message":"Wassup",
+    "largeMessage":"He finds that soft news accounts for an increasing proportion of stories in the media and that the emphasis on soft news coverage contributes to declining interest in the news"
+   
+    
+
+
+}

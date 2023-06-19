@@ -1,0 +1,29 @@
+{
+  "name": "noumenacypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "allure:report":"cypress run --env allure=true --headless --browser chrome --spec cypress/e2e/Discovery.js",
+    "Event:Dashboard": "cypress run --record --key 6aa03662-c2b2-48c3-8e86-11590e804232 --spec cypress/e2e/GlobalEvents.js --headed",
+    "Community:Dashboard": "cypress run --record --key 6aa03662-c2b2-48c3-8e86-11590e804232 --spec cypress/e2e/CommunityPost.js",
+    "CreateNoum:Dashboard": "cypress run --record --key 6aa03662-c2b2-48c3-8e86-11590e804232 --spec cypress/e2e/CreateNoum.js",
+    "Discovery:Dashboard": "cypress run --record --key 6aa03662-c2b2-48c3-8e86-11590e804232 --spec cypress/e2e/Discovery.js --env allure=true",
+    "GlobalSearch:Dashboard": "cypress run --record --key 6aa03662-c2b2-48c3-8e86-11590e804232 --spec cypress/e2e/GlobalSearch.js",
+    "HomeScreen:Dashboard": "cypress run --record --key 6aa03662-c2b2-48c3-8e86-11590e804232 --spec cypress/e2e/HomeScreen.js",
+    "Login:Dashboard": "cypress run --record --key 6aa03662-c2b2-48c3-8e86-11590e804232 --spec cypress/e2e/Login.js --env allure=true",
+    "NoumsTab:Dashboard": "cypress run --record --key 6aa03662-c2b2-48c3-8e86-11590e804232 --spec cypress/e2e/NoumTabsPage.js",
+    "Signup:Dashboard": "cypress run --record --key 6aa03662-c2b2-48c3-8e86-11590e804232 --spec cypress/e2e/Signup.js",
+    "Run:All" : "npx cypress run --env allure=true --record --key 6aa03662-c2b2-48c3-8e86-11590e804232 --spec cypress/e2e --browser chrome"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.39.1",
+    "allure-commandline": "^2.22.1",
+    "cypress": "^12.13.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}

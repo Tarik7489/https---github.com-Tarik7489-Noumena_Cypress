@@ -1,0 +1,122 @@
+[
+  {
+    "email": "tarika+16@noumena.global",
+    "invalidemail":"tarik@",
+    "emptyEmail":"   "
+  },
+  {
+    "otp1": "1",
+    "otp2": "2",
+    "otp3": "3",
+    "otp4": "4"
+  },
+  {
+    "otp1": "8",
+    "otp2": "2",
+    "otp3": "3",
+    "otp4": "4"
+  },
+  {
+    "phoneNumber":"8904517451",
+    "country":"India"
+
+  },
+  {
+    "phoneNumber":"6435434"
+  },
+  {
+    "country":"geywr"
+  },
+  {
+    "pedEmail":"tarika+e2378@noumena.global"
+  },
+  {
+    "post":"Hey, this is my new post",
+    "postLink":"https://amazon.in"
+  },
+  {
+    "post":"https://amazon.in",
+    "post1" : "Testing"
+  },
+  {
+    "projectNoum":"Project 3trf",
+    "desc": "Hello guys"
+  },
+  {
+    "socialNoum": "Social 2rfre",
+    "desc": "Hello guys"
+  },
+  {
+    "investmentNoum":"Investment 2rrtur",
+    "desc": "Hello guys"
+  },
+  {
+    "storyNoum":"Story 2drtrh",
+    "desc": "Hello guys"
+
+  },
+  {
+    "specialNoum":"Special r2riy",
+    "desc": "Hello guys"
+
+  },
+  {
+    "publicNoum1":"public 3errsg",
+    "desc": "Hello guys"
+  },
+  {
+    "publicNoum2":"public 3arrd",
+    "desc": "Hello guys"
+  },
+  {
+    "publicNoum3":"public rrh4r",
+    "desc": "Hello guys"
+  },
+  {
+    "publicNoum4":"public htrr5",
+    "desc": "Hello guys"
+  },
+  {
+    "publicNoum5":"public htrr6",
+    "desc": "Hello guys"
+  },
+  {
+    "secretNoum1":"secret hrrf2",
+    "desc": "Hello guys"
+  },
+  {
+    "secretNoum2":"secret d3rrf",
+    "desc": "Hello guys"
+  },
+  {
+    "secretNoum3":"secret fg4rrjl",
+    "desc": "Hello guys"
+  },
+  {
+    "secretNoum4":"secret 6ykrra",
+    "desc": "Hello guys"
+  },
+  {
+    "secretNoum5":"secret u6rkrgu",
+    "desc": "Hello guys"
+  },
+  {
+    "noumName": "Noum 108r6r1",
+    "desc": "Hello guys"
+  },
+  {
+    "postLink":"https://google.com"
+  },
+  {
+    "number":"8780101923",
+    "existingNumber":"8904517451",
+    "validNumber": "9854493633"
+  },
+  {
+    "invalidEmail":"testrk@",
+    "existingEmail":"tarika+16@noumena.global",
+    "validEmail":"tarika+87g@noumena.global"
+  }
+  
+  
+]
